@@ -1,0 +1,33 @@
+
+.flex {
+    display: flex;
+    align-items: flex-end;
+	
+	background: #d5d8db; width: 700px;     height: 250px;     margin: 20px 0;  padding: 5px;
+}
+
+.flex-itm {     background: #2e5b61;    font-size: 1.5rem; color: #eee;     margin: 5px;     padding: 15px; }
+.flex-itm:nth-child(1) {   padding: 70px 15px; }
+.flex-itm:nth-child(1) {   background: #b41a4d;}
+.flex-itm:nth-child(1) {   text-align: start; }
+
+.flex-itm:nth-child(2) { padding: 50px 15px; }
+.flex-itm:nth-child(2) {   background: #474696;}
+
+.flex-itm:nth-child(3) { padding: 30px 15px; }
+.flex-itm:nth-child(3) {   background: #1ab43b;}
+
+.flex-itm:nth-child(4) {   padding: 100px 15px;}
+.flex-itm:nth-child(4) {   background: #aab41a;}
+
+.flex-itm:nth-child(5) { padding: 90px 15px; }
+.flex-itm:nth-child(5) {   background: #b4711a;}
+
+.flex-itm:nth-child(6) { padding: 60px 15px; }
+.flex-itm:nth-child(6) {   background: #1a90b4;}
+
+.flex-itm:nth-child(7) {   padding: 10px 15px; }
+.flex-itm:nth-child(7) {   background: #b41a81;}
+
+.flex-itm:nth-child(8) { padding: 35px 15px; }
+.flex-itm:nth-child(8) {   background: #881ab4;}

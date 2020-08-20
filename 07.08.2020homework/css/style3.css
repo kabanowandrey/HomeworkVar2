@@ -1,0 +1,24 @@
+.image {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0px;
+}
+
+.column {
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0;
+}
+
+.Text {
+    width: 50%;
+}
+
+.part {
+    padding: 0 25px;
+}

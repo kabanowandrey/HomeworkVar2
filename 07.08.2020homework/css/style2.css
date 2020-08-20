@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 0px;
+}
+
+.column {
+    display: inline-flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,26 @@
+.image {
+    content:'';
+    float: left;
+    padding: 0 150px;
+}
+.pig {
+    content: "";
+    float: left;
+    
+   
+
+}
+
+.Text::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+.column {
+    content: '';
+    float: left;
+    padding: 5px 5px;
+    width: 30%;
+}
+
